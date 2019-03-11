@@ -1,0 +1,33 @@
+Test libgist for SR-Tree
+Open an existing index file
+[INFO] The query is = p 51.892 0.421
+[INFO] Delete Use time: 0.000137
+=============================
+[INFO] The query is = p 10.356 0.876
+[INFO] Delete Use time: 0.000166
+=============================
+[INFO] The query is & p 37.855 12.673
+[INFO] Delete Use time: 0.000104
+=============================
+[INFO] The query is & p 45.131 -41.087
+[INFO] Delete Use time: 0.000147
+=============================
+[INFO] The query is & r 5.432 15.620 15.231 25.098
+[INFO] Delete Use time: 0.000158
+=============================
+[INFO] The query is < p -71.593 -38.499
+[INFO] Delete Use time: 8.5e-05
+=============================
+[INFO] The query is < r 67.564 72.453 -23.393 33.324
+[INFO] Delete Use time: 0.00016
+=============================
+[INFO] The query is > p 46.533 -90.311
+[INFO] Delete Use time: 9e-05
+=============================
+[INFO] The query is > r 47.032 56.745 60.128 65.594
+[INFO] Delete Use time: 6.6e-05
+=============================
+[INFO] The query is ~ p 11.480 -57.799
+[INFO] Delete Use time: 3e-06
+=============================
+Over!

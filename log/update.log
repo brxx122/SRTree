@@ -1,0 +1,21 @@
+Test libgist for SR-Tree
+Open an existing index file
+[INFO] The (key, data) is (-63.379 12.349:-107)
+(-63.379, 12.349): -107
+[INFO] Retrieved 1 items
+[INFO] Update Use time: 0.000522
+=============================
+[INFO] The (key, data) is (43.314 31.31:24)
+[INFO] Retrieved 0 items
+[INFO] Update Use time: 0.000175
+=============================
+[INFO] The (key, data) is (51.892 0.421:86)
+[INFO] Retrieved 0 items
+[INFO] Update Use time: 0.000175
+=============================
+[INFO] The (key, data) is (21.758 -82.444:75)
+(21.758, -82.444): -175
+[INFO] Retrieved 1 items
+[INFO] Update Use time: 0.000314
+=============================
+Over!
